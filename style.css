@@ -93,3 +93,11 @@
 	margin: 2px;
   }
   
+  .foto-perfil {
+	display: block; 
+  	margin: auto; 
+	border-radius: 50%;
+	border: 3px solid #333333;;
+	width: 100px; 
+	height: 100px; 
+  }
